@@ -9,7 +9,7 @@
 - **结局**：删微信、分手
 
 ## 文件目录
-- [github 01.md](github 01.md) → 部分原始对话记录（已匿名处理）
+- (github 01.md)https://github.com/lokileeus/caili-dialogue/blob/main/github%2001.md → 部分原始对话记录（已匿名处理）
 
 ## 阅读须知
 - 所有内容已匿名，无真实身份信息
